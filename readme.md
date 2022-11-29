@@ -5,6 +5,7 @@
 1.Soru: [16,21,11,8,12,22] Dizinin Sort aşamalarını yazınız.
 
 **Dizin yarıya bölünerek tek eleman kalana kadar bölünmeye devam eder.**
+
 **En sade halinden sonra ise sırayla küçükten büyüğe sıralanarak dizin tekrar toparlanır.**
 
 > CEVAP:
@@ -24,6 +25,7 @@
 > CEVAP:
 >
 > > 2^x=n -> logn=x
+>
 > > Big O Notation : O(nlogn)
 
 ---
